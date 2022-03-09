@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\bin\Debug\net6.0\rpg_jogo.exe
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\bin\Debug\net6.0\rpg_jogo.deps.json
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\bin\Debug\net6.0\rpg_jogo.runtimeconfig.json
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\bin\Debug\net6.0\rpg_jogo.dll
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\bin\Debug\net6.0\ref\rpg_jogo.dll
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\bin\Debug\net6.0\rpg_jogo.pdb
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\rpg_jogo.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\rpg_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\rpg_jogo.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\rpg_jogo.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\rpg_jogo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\rpg_jogo.dll
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\ref\rpg_jogo.dll
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\rpg_jogo.pdb
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\rpg_jogo\obj\Debug\net6.0\rpg_jogo.genruntimeconfig.cache
